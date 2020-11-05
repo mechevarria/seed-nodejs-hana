@@ -23,7 +23,7 @@ router.route('/hana').get(hanaCtrl);
 
 app.use('/', router);
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4200;
 app.listen(port, () => {
     console.info(`http server started on port ${port}`);
 });
