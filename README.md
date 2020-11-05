@@ -1,4 +1,4 @@
-# seed-hdi
+# seed-nodejs-hana
 
 Deploys an [expressjs](https://expressjs.com/) based REST API to [SAP Cloud Platform](https://www.sap.com/products/cloud-platform.html). A seed project to start SAP HANA API development locally or in [SAP Business Application Studio](https://help.sap.com/viewer/product/SAP%20Business%20Application%20Studio/Cloud/en-US)
 
